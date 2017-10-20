@@ -10,7 +10,4 @@ permalink: /about/
 <p>If you are seeking an IT professional who has excellent people and problem-solving skills and who can easily provide optimum support to your customer, then please consider what I have to offer.</p>
 <p>I believe through the trial weeks, you can understand my abilities well. Till now, I had been a senior Technical Support Representative for HPE (out-sourcing). With the enthusiastic and thoughtful treatment for customer, I have made sure they completely satisfied with their enquiry.</p>
 <p>I’m availableto work anytime, kindly schedule the time as you want.</p>
-<p>Thank you for your time and consideration.</p></td> 
-
-
-</table>
+<p>Thank you for your time and consideration.</p>
